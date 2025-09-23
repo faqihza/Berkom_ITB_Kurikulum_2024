@@ -1,0 +1,16 @@
+angka1 = int(input("angka 1 = "))
+angka2 = int(input("angka 2 = "))
+
+is_equal = (angka1 == angka2)
+is_not_equal = (angka1 != angka2)
+is_greater_than = (angka1 > angka2)
+is_greater_than_equal = (angka1 >= angka2)
+is_less_than = (angka1 < angka2)
+is_less_than_equal = (angka1 <= angka2)
+
+print("is_equal =",is_equal)
+print("is_not_equal =",is_not_equal)
+print("is_greater_than =",is_greater_than)
+print("is_greater_than_equal =",is_greater_than_equal)
+print("is_less_than =",is_less_than)
+print("is_less_than_equal =",is_less_than_equal)
