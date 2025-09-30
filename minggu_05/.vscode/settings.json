@@ -1,0 +1,7 @@
+{
+	"window.zoomLevel": 5,
+	"editor.fontSize": 18,
+	"workbench.colorTheme":"Default Light+",
+	"workbench.iconTheme": "material-icon-theme",
+	"terminal.integrated.fontSize": 18
+}
